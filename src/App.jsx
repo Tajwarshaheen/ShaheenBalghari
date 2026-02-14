@@ -1,9 +1,9 @@
 import React from 'react'
-import Projects from './Project'
+import Navbar from './Navbar'
 function App() {
   return (
     <>
-   <Projects/>
+    <Navbar/>
 
     </>
   )
