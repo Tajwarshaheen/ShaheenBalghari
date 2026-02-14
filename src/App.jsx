@@ -1,11 +1,10 @@
 import React from 'react'
-import Home  from './Home'
-import Paractice from './Paractice'
+import Projects from './Project'
 function App() {
   return (
     <>
-    <Home/>
-  <Paractice/>
+   <Projects/>
+
     </>
   )
 }
