@@ -9,7 +9,7 @@ import siximg from '../src/assets/Airplane pic.png'
 function ProjectWebsite() {
   return (
     <>
-     <section className='grid grid-cols-1 gap-4 sm:grid-cols-3 md:grid-cols-2 lg:grid-cols-3'>
+     <section className='grid  gap-4 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
          <div className='w-100 h-75 border-1'> <img src={firstimg} alt="" /> <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate qui repellendus incidunt magni voluptates dolor iusto quae voluptatem, vel autem.</p></div>
          <div className='w-[400px] h-[300px] border-1'> <img src={secondimg} alt="" />  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium illo laborum architecto a, nesciunt reprehenderit nostrum sed quos doloremque facilis?</p></div>
          <div className='w-[400px] h-[300px] border-1'> <img src={thirdimg} alt="" />  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium illo laborum architecto a, nesciunt reprehenderit nostrum sed quos doloremque facilis?</p></div>

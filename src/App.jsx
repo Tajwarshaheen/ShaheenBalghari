@@ -7,8 +7,8 @@ import ProjectWebsite from './ProjectWebsite'
 // import WebsitePublic from './WebsitePublic'
 // import WebsiteManufacturing from './WebsiteManufacturing'
 // import WebsiteFooter from './WebsiteFooter'
-// import Class1 from './class1'
 // import Navbar from './Navbar'
+import Class1  from './Class1'
 // import Home from './Home'
 // import About from './About'
 // import Loginform from './Loginform'
@@ -24,9 +24,8 @@ function App() {
     <WebsitePublic/>
     <WebsiteFooter/> */}
     <ProjectWebsite/>
-
-    {/* <Class1/> */}
     {/* <Navbar/> */}
+    <Class1/>
    {/* <Home/> */}
     {/* <About/> */}
 {/* <Loginform/> */}
