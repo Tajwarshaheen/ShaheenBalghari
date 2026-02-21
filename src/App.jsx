@@ -1,5 +1,5 @@
 import React from 'react'
-import ProjectWebsite from './ProjectWebsite'
+// import ProjectWebsite from './ProjectWebsite'
 // import WebsiteHome from './WebsiteHome'
 // import WebsiteAbout from './WebsiteAbout'
 // import Websiteloginpage from './Websiteloginpage'
@@ -8,10 +8,11 @@ import ProjectWebsite from './ProjectWebsite'
 // import WebsiteManufacturing from './WebsiteManufacturing'
 // import WebsiteFooter from './WebsiteFooter'
 // import Navbar from './Navbar'
-import Class1  from './Class1'
+// import Class1  from './Class1'
 // import Home from './Home'
 // import About from './About'
 // import Loginform from './Loginform'
+import ProjectHome from './ProjectHome'
 function App() {
   return (
     <>
@@ -23,9 +24,10 @@ function App() {
     <WebsiteManufacturing/>    
     <WebsitePublic/>
     <WebsiteFooter/> */}
-    <ProjectWebsite/>
+    {/* <ProjectWebsite/> */}
     {/* <Navbar/> */}
-    <Class1/>
+    {/* <Class1/> */}
+    <ProjectHome/>
    {/* <Home/> */}
     {/* <About/> */}
 {/* <Loginform/> */}
