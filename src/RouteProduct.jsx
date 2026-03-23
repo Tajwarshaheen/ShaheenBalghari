@@ -9,7 +9,7 @@ function RouteProduct() {
       <ul className='flex justify-end'> 
           <li className='mx-5 hover:cursor-pointer '> <Link to="/Home"></Link>    Home</li>
           <li className='mx-5 hover:cursor-pointer'> <Link to="/About">  About </Link></li>
-          <li className='mx-5 hover:cursor-pointer'> <Link to="/">Product</Link>   </li>  
+          <li className='mx-5 hover:cursor-pointer'> <Link to="/Product">Product</Link>   </li>  
           <li className='mx-5 hover:cursor-pointer'>Contact</li>
       </ul>
     </nav>

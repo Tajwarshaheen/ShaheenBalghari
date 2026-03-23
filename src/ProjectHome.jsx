@@ -101,7 +101,7 @@ function ProjectHome() {
 
 
         <section>
-             <div className='mx-96 my-40 bg-red-800'>  
+             <div className='mx-96 my-40'>  
                 <h1> Frequently Asked <span className='text-purple-400 text-2xl  font-bold text-center'>Question</span></h1>
 
              </div>
